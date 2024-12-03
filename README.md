@@ -34,14 +34,17 @@ Vá para a aba "Lista de Animais".
 
 Verifique os animais cadastrados com os detalhes corretos.
 
-Estrutura do Projeto
+```
 
-.
+## Estrutura do Projeto
+
+
 ├── animal.py          # Classe abstrata Animal
 ├── cachorro.py        # Classe Cachorro que herda de Animal
 ├── gato.py            # Classe Gato que herda de Animal
 ├── main.py            # Interface gráfica com Tkinter
 └── README.md          # Documentação do projeto
 
-Autores
+## Autores
+
 >Lucas Rocha - LucasRocha-CMD
