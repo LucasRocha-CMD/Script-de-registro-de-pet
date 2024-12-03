@@ -40,9 +40,13 @@ Verifique os animais cadastrados com os detalhes corretos.
 
 
 ├── animal.py          # Classe abstrata Animal
+
 ├── cachorro.py        # Classe Cachorro que herda de Animal
+
 ├── gato.py            # Classe Gato que herda de Animal
+
 ├── main.py            # Interface gráfica com Tkinter
+
 └── README.md          # Documentação do projeto
 
 ## Autores
